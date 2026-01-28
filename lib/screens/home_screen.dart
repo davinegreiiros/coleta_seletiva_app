@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
                 _buildMenuButton(
                   context,
                   icon: '📊',
-                  title: 'Gestor',
+                  title: 'Gestor ',
                   subtitle: 'Gerencie rotas e veículos',
                   isSecondary: true,
                   onTap: () => Navigator.push(
