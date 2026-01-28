@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\Davii\\\\Documents\\\\development\\\\coleta_seletiva_app\\\\lib\\\\widgets\\\\flutter_map_view.dart\")"
+    ]
+  }
+}
